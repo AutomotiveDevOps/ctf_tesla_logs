@@ -1,0 +1,178 @@
+{
+    "messages": [
+        {
+            "id": 933,
+            "is_extended_frame": false,
+            "name": "Ox3A5",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A5_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        },
+        {
+            "id": 934,
+            "is_extended_frame": false,
+            "name": "Ox3A6",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_0",
+                    "offset": "0",
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_8",
+                    "offset": "0",
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_16",
+                    "offset": "0",
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_24",
+                    "offset": "0",
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_32",
+                    "offset": "0",
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_40",
+                    "offset": "0",
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_48",
+                    "offset": "0",
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": "1",
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "Ox3A6_56",
+                    "offset": "0",
+                    "start_bit": 56
+                }
+            ]
+        }
+    ]
+}

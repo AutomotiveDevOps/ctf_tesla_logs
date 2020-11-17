@@ -1,17 +1,12 @@
-
 aioisotp
 asammdf
 can-isotp
 canmatrix
 cantools
+fsspec
 ipython
-
-#
 jupyter
 notebook
-
-
 pre-commit
-# CAN
 python-can
 udsoncan

@@ -1,5 +1,13 @@
-*.log
+.cache/
+.config/
 .ipynb_checkpoints/
+.ipython/
+.ipython/
+.jupyter/
+.local/ 
+*.log
+dask-worker-space/
+.npm/
 tesla_autogen.dbc
 tesla_dbc.json
 virtualenv_python3/
