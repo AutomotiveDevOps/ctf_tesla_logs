@@ -27,12 +27,12 @@ This particular machine did have access to git & outside world.
 
 # Scaleable Cloud Based Analytic Solution for the Modern Era(tm).
 
-Based on [dask-docker][https://github.com/dask/dask-docker]
+Based on [dask-docker](https://github.com/dask/dask-docker)
 
-`
+```
 cd dask-docker/
 docker-compose up
-`
+```
 
 1. Copy and paste the `http://127.0.0.1:8888/` URL into your browser.
 2. Control-click on the URL depending on your terminal emulator.
@@ -41,7 +41,7 @@ docker-compose up
 
 This was our first CTF event and weren't sure what to expect or do. We ignored the set CTF goals and instead opted for bulk data collection with the intention of leaving the Prüfstand and going back to the desk for the actual work. This way the next time we're in the test cell,
 
-This development style worked for our team while assisting [Caterpillar M46](https://www.cat.com/en_US/products/new/power-systems/marine-power-systems/commercial-propulsion-engines/18547528.html) development and [Caterpillar 795F AC](https://www.cat.com/en_US/products/new/equipment/off-highway-trucks/mining-trucks/18232553.html) dSpace HIL testing.
+This development style worked for our team while assisting [Caterpillar M46](https://www.cat.com/en_US/products/new/power-systems/marine-power-systems/commercial-propulsion-engines/18547528.html) development and [Caterpillar 795F AC](https://www.warrencat.com/new-equipment/machines/off-highway-trucks/795f-ac-mining-trucks/) dSpace HIL testing.
 
 ## Team Experience:
 
